@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-partidas-rankeadas",
+  "version": "1.0.0",
+  "description": "Projeto de estudo para bootcamp da DIO",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "viperluan",
+  "license": "ISC"
+}
