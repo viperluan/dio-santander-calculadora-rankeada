@@ -18,9 +18,7 @@ Se vitórias for maior ou igual a 101 = Imortal
 
 ## Como usar
 
-> Para executar o projeto, é necessário que o Nodejs esteja instalado no seu computador.
-
-**testado na versão v18.19.0**
+> Para executar o projeto, é necessário que o Nodejs esteja instalado no seu computador. **Testado na versão v18.19.0**
 
 Abra um terminal na pasta do projeto e digite:
 
